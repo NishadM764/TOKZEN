@@ -213,6 +213,13 @@ GitHub: [@NishadM764](https://github.com/NishadM764)
 
 Project repository: [AI Token Optimizer](https://github.com/NishadM764/ai-token-optimizer)
 
+## Contributors
+
+- **Nishad M** — Project development, core implementation, and integration.
+- **Tharun Shiva R** — Collaborative development, feature contributions, testing, and project improvements.
+
+We worked together to build TOKZEN, an AI-powered prompt optimizer designed to analyze prompts and reduce token usage while aiming to preserve their original meaning.
+
 ## License
 
 This project does not specify a license yet. Add a `LICENSE` file if you intend to distribute the project as open-source software.
